@@ -18,14 +18,6 @@
             ]
         },
         {
-            "id": "http://example.com/2023/07/12/%E5%85%B3%E4%BA%8E/",
-            "url": "http://example.com/2023/07/12/%E5%85%B3%E4%BA%8E/",
-            "title": "关于",
-            "date_published": "2023-07-12T06:43:48.000Z",
-            "content_html": "<h2 id=\"关于我自己\"><a class=\"anchor\" href=\"#关于我自己\">#</a> 关于我自己</h2>\n<h3 id=\"mbti\"><a class=\"anchor\" href=\"#mbti\">#</a> mbti</h3>\n<p>## 在做的事</p>\n<p>## 常用账号<br />\n ### 经常出没</p>\n",
-            "tags": []
-        },
-        {
             "id": "http://example.com/2023/07/06/%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB/",
             "url": "http://example.com/2023/07/06/%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB/",
             "title": "日本生活",

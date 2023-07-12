@@ -20,18 +20,6 @@
         <updated>2023-07-12T07:46:59.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2023/07/12/%E5%85%B3%E4%BA%8E/</id>
-        <title>关于</title>
-        <link rel="alternate" href="http://example.com/2023/07/12/%E5%85%B3%E4%BA%8E/"/>
-        <content type="html">&lt;h2 id=&#34;关于我自己&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于我自己&#34;&gt;#&lt;/a&gt; 关于我自己&lt;/h2&gt;
-&lt;h3 id=&#34;mbti&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mbti&#34;&gt;#&lt;/a&gt; mbti&lt;/h3&gt;
-&lt;p&gt;## 在做的事&lt;/p&gt;
-&lt;p&gt;## 常用账号&lt;br /&gt;
- ### 经常出没&lt;/p&gt;
-</content>
-        <updated>2023-07-12T06:43:48.000Z</updated>
-    </entry>
-    <entry>
         <id>http://example.com/2023/07/06/%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB/</id>
         <title>日本生活</title>
         <link rel="alternate" href="http://example.com/2023/07/06/%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB/"/>
