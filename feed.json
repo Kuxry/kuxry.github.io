@@ -7,6 +7,25 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2023/07/12/piano/piano-songs/%E9%92%A2%E7%90%B4%E6%9B%B2%E8%AE%B0%E5%BD%95/",
+            "url": "http://example.com/2023/07/12/piano/piano-songs/%E9%92%A2%E7%90%B4%E6%9B%B2%E8%AE%B0%E5%BD%95/",
+            "title": "钢琴曲记录",
+            "date_published": "2023-07-12T07:46:59.000Z",
+            "content_html": "<h2 id=\"piano-songs\"><a class=\"anchor\" href=\"#piano-songs\">#</a> Piano songs</h2>\n",
+            "tags": [
+                "Piano",
+                "piano"
+            ]
+        },
+        {
+            "id": "http://example.com/2023/07/12/%E5%85%B3%E4%BA%8E/",
+            "url": "http://example.com/2023/07/12/%E5%85%B3%E4%BA%8E/",
+            "title": "关于",
+            "date_published": "2023-07-12T06:43:48.000Z",
+            "content_html": "<h2 id=\"关于我自己\"><a class=\"anchor\" href=\"#关于我自己\">#</a> 关于我自己</h2>\n<h3 id=\"mbti\"><a class=\"anchor\" href=\"#mbti\">#</a> mbti</h3>\n<p>## 在做的事</p>\n<p>## 常用账号<br />\n ### 经常出没</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2023/07/06/%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB/",
             "url": "http://example.com/2023/07/06/%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB/",
             "title": "日本生活",
@@ -39,12 +58,15 @@
             "tags": []
         },
         {
-            "id": "http://example.com/2023/07/06/hello-world/",
-            "url": "http://example.com/2023/07/06/hello-world/",
+            "id": "http://example.com/2023/07/06/computer/hexo/hello-world/",
+            "url": "http://example.com/2023/07/06/computer/hexo/hello-world/",
             "title": "Hello World",
             "date_published": "2023-07-06T11:50:08.685Z",
             "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo new <span class=\"token string\">\"My New Post\"</span></pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo server</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo generate</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>h</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre>$ hexo deploy</pre></td></tr></table></figure><p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
-            "tags": []
+            "tags": [
+                "Computer",
+                "hexo"
+            ]
         }
     ]
 }
